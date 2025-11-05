@@ -47,7 +47,6 @@
   "Red Team/Red Team.md": "SiVirustotal",
   "Tools/Tools.md": "TiTerminal2",
   "Web/Web.md": "LiGlobe",
-  "Active Directory/Active Directory Index.md": "SiWindows10",
   "Attacks": "RaCrackedShield",
   "00-Attachments": "RiAttachment2",
   "Technologies": "LiServer",
@@ -57,7 +56,6 @@
   "Networking": "LiNetwork",
   "Windows": "SiWindowsxp",
   "Cloud": "TiCloud",
-  "Attacks/Attacks Index.md": "RaCrackedShield",
   "Cloud/Cloud.md": "TiCloud",
   "Malware/Malware.md": "LiBug",
   "Networking/Networking.md": "LiNetwork",
@@ -66,7 +64,6 @@
   "Technologies/Technologies.md": "LiServer",
   "Windows/Windows.md": "SiWindowsxp",
   "PowerShell": "SiPowershell",
-  "PowerShell/PowerShell Index.md": "SiPowershell",
   "OSINT": "FasMagnifyingGlass",
   "OSINT/OSINT.md": "FasMagnifyingGlass",
   "Detection": "OcAlert16",
@@ -82,7 +79,6 @@
   "Protocols": "LiCable",
   "Protocols/Protocols.md": "LiCable",
   "Operation Technology": "LiFactory",
-  "Operation Technology/Operational Technology Index.md": "LiFactory",
   "Writeups": "FasPencil",
   "External": "CoLogOut",
   "Internal": "BoBxNetworkChart",
@@ -92,5 +88,9 @@
   "Research": "LiBrain",
   "Research/SAP/SAP Research.md": "SiSap",
   "Research/SAP": "LiFolder",
-  "Research/Research.md": "LiBrain"
+  "Research/Research.md": "LiBrain",
+  "Operation Technology/Operational Technology.md": "LiFactory",
+  "PowerShell/PowerShell.md": "SiPowershell",
+  "Active Directory/Active Directory.md": "SiWindows10",
+  "Attacks/Attacks.md": "RaCrackedShield"
 }

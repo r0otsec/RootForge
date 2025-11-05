@@ -4,12 +4,12 @@ tags:
 date: 2025-27-08
 ---
 
-![[GlobalIndex.png]]
+![[rootforge.png]]
 
-# Knowledge Base
+# Global Index
 
-- [[Active Directory Index]]
-- [[Attacks Index]]
+- [[Active Directory]]
+- [[Attacks]]
 - [[Blue Team]]
 - [[Cloud]]
 - [[CVE]]
@@ -23,15 +23,15 @@ date: 2025-27-08
 - [[Methodology]]
 - [[Networking]]
 - [[OSINT]]
-- [[Operational Technology Index]]
+- [[Operational Technology]]
 - [[Phishing]]
 - [[Pivoting]]
-- [[PowerShell Index]]
+- [[PowerShell]]
 - [[Programming]]
 - [[Protocols]]
 - [[Red Team]]
-- [[SAP Research]]
+- [[Research]]
 - [[Technologies]]
-- [[Tools/Tools]]
+- [[Tools]]
 - [[Web]]
 - [[Windows]]
