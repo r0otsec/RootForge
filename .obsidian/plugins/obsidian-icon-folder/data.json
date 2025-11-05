@@ -88,9 +88,5 @@
   "Research": "LiBrain",
   "Research/SAP/SAP Research.md": "SiSap",
   "Research/SAP": "LiFolder",
-  "Research/Research.md": "LiBrain",
-  "Operation Technology/Operational Technology.md": "LiFactory",
-  "PowerShell/PowerShell.md": "SiPowershell",
-  "Active Directory/Active Directory.md": "SiWindows10",
-  "Attacks/Attacks.md": "RaCrackedShield"
+  "Research/Research.md": "LiBrain"
 }
