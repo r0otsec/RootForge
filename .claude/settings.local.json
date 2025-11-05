@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(findstr:*)",
+      "Bash(dir \"C:\\Users\\THOR\\GitHub\\RootForge\\Programming\\C\" /B)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

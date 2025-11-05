@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Global Index.md",
-                "mode": "source",
+                "file": "Programming/C/Structs.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Global Index"
+              "title": "Structs"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Global Index.md",
+                "file": "Programming/C/Structs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Global Index"
+              "title": "Outline of Structs"
             }
           }
         ],
@@ -206,38 +206,39 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0cebfa2132d18ae9",
+  "active": "db4da0f67001e543",
   "lastOpenFiles": [
-    "PowerShell/PowerShell.md",
-    "Operation Technology/Operational Technology.md",
-    "Attacks/Attacks.md",
-    "Active Directory/Active Directory.md",
-    "00-Attachments/rootforge.png",
-    "Technologies/C-Programming/C Random Numbers.md",
-    "Technologies/C-Programming/C Arrays.md",
-    "Technologies/C-Programming/C Control Flow.md",
-    "Global Index.md",
-    "Technologies/C-Programming/C Compilation Process.md",
-    "Technologies/C-Programming/C Enums.md",
-    "Technologies/C-Programming/C File IO.md",
-    "Technologies/C-Programming/C Functions.md",
-    "Technologies/C-Programming/C Structs.md",
-    "Technologies/C-Programming/C Math Functions.md",
-    "Technologies/C-Programming/C User Input.md",
-    "Technologies/C-Programming/C User Input.md.tmp.20400.1762365331936",
-    "Technologies/C-Programming/C Pointers.md",
-    "Technologies/C-Programming/C Programming.md",
-    "Technologies/C-Programming/C Strings.md",
-    "Technologies/C-Programming/C Variables and Data Types.md",
-    "Technologies/C-Programming/C Format Specifiers.md",
+    "Programming/C/Switch Statements.md",
+    "Programming/C/Ternary Operator.md",
+    "Programming/C/Typedef.md",
+    "Programming/C/User Input.md",
+    "Programming/C/Variable Scope.md",
+    "Programming/C/Variables.md",
+    "Programming/C/While Loops.md",
+    "Programming/C/Write Files.md",
+    "Programming/C/For Loops.md",
+    "Programming/C/Arrays and User Input.md",
+    "Programming/C/Enums.md",
+    "Programming/C/Break and Continue.md",
+    "Programming/C/Arrays of Structs.md",
+    "Programming/C/Arrays of Strings.md",
+    "Programming/C/Arrays.md",
+    "Programming/C/Arithmetic Operators.md",
+    "Programming/C/2D Arrays.md",
     "Programming/Programming.md",
-    "Technologies/C-Programming/C File I/O.md",
+    "Programming/C/C Read Files.md",
+    "Programming/C/C Pointers.md",
+    "Programming/C/Structs.md",
+    "Programming/C/C Random Numbers.md",
+    "Programming/C/C Nested Loops.md",
+    "Programming/C/C Nested If Statements.md",
+    "Programming/C/C Function Prototypes.md",
+    "Programming/C/C Return Statements.md",
+    "Programming/C",
+    "00-Attachments/rootforge.png",
+    "Technologies/C-Programming/C User Input.md.tmp.20400.1762365331936",
     "Technologies/C-Programming/C File I",
-    "Technologies/C-Programming/C Preprocessor.md",
-    "Technologies/C-Programming/C Operators.md",
-    "Technologies/C-Programming/C Memory Management.md",
     "Technologies/C-Programming",
-    "Research/Research.md",
     "00-Attachments/research.png",
     "Research/SAP",
     "00-Attachments/readmore.png",
@@ -253,7 +254,6 @@
     "00-Attachments/Trust-Relationships-AD.png",
     "00-Attachments/Structure.png",
     "External",
-    "Internal",
-    "AD Hacking"
+    "Internal"
   ]
 }

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiChecklist",
+      "FasC",
+      "SiC",
       "TiBrain",
-      "LiBrain",
-      "LiFolder",
-      "BoBxNetworkChart",
-      "CoLogOut"
+      "LiBrain"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -88,5 +88,6 @@
   "Research": "LiBrain",
   "Research/SAP/SAP Research.md": "SiSap",
   "Research/SAP": "LiFolder",
-  "Research/Research.md": "LiBrain"
+  "Research/Research.md": "LiBrain",
+  "Programming/C": "SiC"
 }
