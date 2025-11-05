@@ -1,0 +1,7 @@
+/* Make table headers have light blue background and white text */
+table thead th {
+    background-color: #29abe2 !important; /* Light blue */
+    color: white !important;
+    padding: 8px;
+    border: 1px solid #ccc;
+}

@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b276ed9e179939f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cebfa2132d18ae9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Global Index.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Global Index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d112c81c0c5d791e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3fbdca1565ee1d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db4da0f67001e543",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d61ba0667b6af101",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "206751b5f9ca8802",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250.51103591918945
+  },
+  "right": {
+    "id": "5ebe140c19b67d00",
+    "type": "split",
+    "children": [
+      {
+        "id": "84aef2adad99288c",
+        "type": "tabs",
+        "dimension": 32.76269185360094,
+        "children": [
+          {
+            "id": "5d62329066a0e33d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Global Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Global Index"
+            }
+          },
+          {
+            "id": "4bc7c689b417c75b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b3b9e32ba919e942",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6f9cd213f5ddef9f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Global Index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Global Index"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "0609095acc46ba81",
+        "type": "tabs",
+        "dimension": 32.76269185360094,
+        "children": [
+          {
+            "id": "8a208085b6325d11",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "06479f31eacb0478",
+        "type": "tabs",
+        "dimension": 34.47461629279811,
+        "children": [
+          {
+            "id": "aca820ed371b7b5f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 435.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "0cebfa2132d18ae9",
+  "lastOpenFiles": [
+    "Research/Research.md",
+    "Technologies/Technologies.md",
+    "Global Index.md",
+    "00-Attachments/research.png",
+    "Protocols/Protocols.md",
+    "Red Team/Red Team.md",
+    "Research/SAP/S4 HANA.md",
+    "Research/SAP/SAP Research.md",
+    "Research/SAP/Transaction Data.md",
+    "Research/SAP/SAP Profile Parameters.md",
+    "Research/SAP",
+    "Technologies/SCCM/SCCM Task Sequences & Deployment.md",
+    "Technologies/SCCM/SCCM Software Update Point.md",
+    "Technologies/SCCM/SCCM Site Server.md",
+    "Technologies/SCCM/SCCM PXE Boot & OS Deployment.md",
+    "Technologies/SCCM/SCCM Network Access Accounts (NAA).md",
+    "Technologies/SCCM/SCCM Management Point.md",
+    "Technologies/SCCM/SCCM Distribution Point.md",
+    "Technologies/SCCM/SCCM Credential Storage.md",
+    "Technologies/SCCM/SCCM Collections and Variables.md",
+    "Technologies/SCCM/SCCM Client Push & Installation Credentials.md",
+    "Technologies/SCCM/SCCM Client.md",
+    "Technologies/SCCM/SCCM Architecture and Components.md",
+    "Technologies/SCCM/SCCM (System Center Configuration Manager).md",
+    "Technologies/SCCM/SCCM Site Database (SQL).md",
+    "Technologies/SCCM/SCCM Attack Surface.md",
+    "SCCM Task Sequences & Deployment Workflow.md",
+    "00-Attachments/readmore.png",
+    "00-Attachments/SCCM-Architecture.png",
+    "Technologies/SCCM/Untitled",
+    "Technologies/SCCM",
+    "Excalidraw",
+    "Untitled.canvas",
+    "00-Attachments/internal.png",
+    "00-Attachments/Windows-Domain-Diagram.png",
+    "00-Attachments/wiondows.png",
+    "00-Attachments/writeups.png",
+    "00-Attachments/Trust-Relationships-AD.png",
+    "00-Attachments/Structure.png",
+    "00-Attachments/Silver Ticket Diagram.png",
+    "External",
+    "Internal",
+    "AD Hacking",
+    "Writeups/PwnedLabs",
+    "Writeups",
+    "SAP Research/Background"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#AD  ",
+      "color": {
+        "a": 1,
+        "rgb": 35071
+      }
+    },
+    {
+      "query": "tag:#SAP  ",
+      "color": {
+        "a": 1,
+        "rgb": 323584
+      }
+    },
+    {
+      "query": "tag:#Technologies  ",
+      "color": {
+        "a": 1,
+        "rgb": 16753152
+      }
+    },
+    {
+      "query": "tag:#Index",
+      "color": {
+        "a": 1,
+        "rgb": 14622752
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 0.993229166666667,
+  "lineSizeMultiplier": 0.610416666666667,
+  "collapse-forces": false,
+  "centerStrength": 0.549479166666667,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.0908543500804225,
+  "close": true
+}

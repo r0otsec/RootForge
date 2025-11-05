@@ -1,0 +1,11 @@
+{
+  "cssTheme": "GitHub Theme",
+  "enabledCssSnippets": [
+    "border"
+  ],
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "textFontFamily": "Inter",
+  "accentColor": "",
+  "showRibbon": true
+}
